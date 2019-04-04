@@ -1,7 +1,7 @@
 # .NET Core and Docker
 This is a really basic core installation of ASP .NET to teach about a way it can be dockerized an ASP .NET application 
 
-##Prerequesites
+## Prerequesites
 Install dot-net
 Install docker
 
